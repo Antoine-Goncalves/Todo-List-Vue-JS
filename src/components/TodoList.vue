@@ -1,9 +1,14 @@
 <template>
-  <h1>test</h1>
+  <TodoInputText />
 </template>
 
 <script>
-export default {};
+import TodoInputText from "@/components/TodoInputText.vue";
+export default {
+  components: {
+    TodoInputText
+  }
+};
 </script>
 
 <style>
