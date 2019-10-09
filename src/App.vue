@@ -1,5 +1,6 @@
 <template>
-  <div id="app">
+  <div id="app" class="container">
+    <h1 class="title is-1 has-text-success">My Todo List</h1>
     <TodoList />
   </div>
 </template>
@@ -16,4 +17,7 @@ export default {
 </script>
 
 <style lang="scss">
+.container {
+  margin: 10rem 5rem 0 10rem;
+}
 </style>
