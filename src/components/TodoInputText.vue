@@ -2,7 +2,13 @@
   <div>
     <div class="field">
       <div class="control is-large is-loading">
-        <input class="input is-large" type="text" placeholder="Write something.." />
+        <input
+          class="input is-large"
+          type="text"
+          placeholder="Write something.."
+          :value="value"
+          v-on="listeners"
+        />
       </div>
     </div>
   </div>
