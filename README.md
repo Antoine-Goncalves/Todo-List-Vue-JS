@@ -1,29 +1,25 @@
-# todolist
+# Exercice Vue JS TodoList
 
-## Project setup
-```
-npm install
-```
+## Les critères qualité sont :
+  + Ajout en cliquant sur le bouton.
+  + Ajout en appuyant sur la touche "Entrée".
+  + Une seule entrée (pas de répétitions sur le même évènement).
+  + Aucune entrée si champ vide.
+  + Format identique pour toutes les entrées (Capitalize: CSS ou VueJS).
+  + Vue JS only.
+  
+## Critères qualité Bonus :
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+  + Rendre la todo la plus swag possible (CSS, framework CSS).
+  + Ajouter une option de suppression d'éléments.
+  + Ajouter une option toggle (item barré si acheté).
+  + Dark mode.
+  
+## Bonus de bonus :
 
-### Compiles and minifies for production
-```
-npm run build
-```
+  + Ajouter un compteur de quantité.
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ :bowtie: **_Enjoy_** :bowtie:
+ 
+ 
+ *:bangbang: PS : C'est un exercice :bangbang:*
